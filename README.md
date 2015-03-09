@@ -4,4 +4,12 @@
 
 To build bookmarklet
 
-```grunt```
+```
+grunt
+```
+
+# Ad Sizes
+
+- 300x250
+- 160x600
+- 728x90
