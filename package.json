@@ -1,0 +1,9 @@
+{
+  "name": "videoamp",
+  "description": "",
+  "author": "standyro@gmail.com",
+  "dependencies": {
+    "grunt": "*",
+    "grunt-artoo": "*"
+  }
+}
